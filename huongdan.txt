@@ -1,0 +1,9 @@
+main branch : develop
+sub branch: demo02
+step 1: merger code from develop to demo02-->resolve all conflict on demo02 ->push to demo02
+step2: merger code from demo02 to develop
+tt 
+Merge branch 'develop' into demo_csharp nguoc lai 
+
+# Conflicts:
+#	demo1.txt

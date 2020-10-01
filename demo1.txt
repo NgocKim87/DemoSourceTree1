@@ -1,5 +1,9 @@
 step 1: stage files which will be push to server
 step 2: commit these files
+<<<<<<< HEAD
 step 3: click push-> push committed files
 
 step 4:dgfgh
+=======
+step 3* : remove step 3
+>>>>>>> develop
